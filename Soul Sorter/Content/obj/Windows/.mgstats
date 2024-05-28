@@ -1,0 +1,5 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/game/Soul Sorter/Soul Sorter/Content/Gameplay/Demons/DemonSoul3.png","C:/game/Soul Sorter/Soul Sorter/Content/bin/Windows/Gameplay/Demons/DemonSoul3.xnb","TextureProcessor","Texture2DContent",215187,6750085,0,2471741
+"C:/game/Soul Sorter/Soul Sorter/Content/Gameplay/Demons/DemonSoul4.png","C:/game/Soul Sorter/Soul Sorter/Content/bin/Windows/Gameplay/Demons/DemonSoul4.xnb","TextureProcessor","Texture2DContent",215131,6750085,0,130329
+"C:/game/Soul Sorter/Soul Sorter/Content/Gameplay/Demons/DemonSoul5.png","C:/game/Soul Sorter/Soul Sorter/Content/bin/Windows/Gameplay/Demons/DemonSoul5.xnb","TextureProcessor","Texture2DContent",217803,6750085,0,1199307
+"C:/game/Soul Sorter/Soul Sorter/Content/Gameplay/Demons/DemonSoul6.png","C:/game/Soul Sorter/Soul Sorter/Content/bin/Windows/Gameplay/Demons/DemonSoul6.xnb","TextureProcessor","Texture2DContent",217694,6750085,0,1091637

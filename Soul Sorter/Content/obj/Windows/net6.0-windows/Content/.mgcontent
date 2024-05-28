@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/game — копия/Soul Sorter/Soul Sorter/Content/Attributes.png</File>
+    <File>C:/game — копия/Soul Sorter/Soul Sorter/Content/Gameplay/Background/backgroundCloud1.png</File>
+    <File>C:/game — копия/Soul Sorter/Soul Sorter/Content/Gameplay/Background/backgroundCloud2.png</File>
+    <File>C:/game — копия/Soul Sorter/Soul Sorter/Content/Gameplay/Background/backgroundCloud3.png</File>
+    <File>C:/game — копия/Soul Sorter/Soul Sorter/Content/Gameplay/Background/backgroundClouds.png</File>
+    <File>C:/game — копия/Soul Sorter/Soul Sorter/Content/Gameplay/Background/backgroundGameplay.mp3</File>
+    <File>C:/game — копия/Soul Sorter/Soul Sorter/Content/Gameplay/Demons/DemonSoul1.png</File>
+    <File>C:/game — копия/Soul Sorter/Soul Sorter/Content/Gameplay/Demons/DemonSoul2.png</File>
+    <File>C:/game — копия/Soul Sorter/Soul Sorter/Content/Gameplay/Demons/DemonSoul3.png</File>
+    <File>C:/game — копия/Soul Sorter/Soul Sorter/Content/Gameplay/Demons/DemonSoul4.png</File>
+    <File>C:/game — копия/Soul Sorter/Soul Sorter/Content/Gameplay/Demons/DemonSoul5.png</File>
+    <File>C:/game — копия/Soul Sorter/Soul Sorter/Content/Gameplay/Demons/DemonSoul6.png</File>
+    <File>C:/game — копия/Soul Sorter/Soul Sorter/Content/Gameplay/HUD/hud.png</File>
+    <File>C:/game — копия/Soul Sorter/Soul Sorter/Content/Gameplay/HUD/timer.png</File>
+    <File>C:/game — копия/Soul Sorter/Soul Sorter/Content/Gameplay/Humans/HumanSoul1.png</File>
+    <File>C:/game — копия/Soul Sorter/Soul Sorter/Content/Gameplay/Humans/HumanSoul2.png</File>
+    <File>C:/game — копия/Soul Sorter/Soul Sorter/Content/Gameplay/Humans/HumanSoul3.png</File>
+    <File>C:/game — копия/Soul Sorter/Soul Sorter/Content/Gameplay/Humans/HumanSoul4.png</File>
+    <File>C:/game — копия/Soul Sorter/Soul Sorter/Content/Gameplay/Humans/HumanSoul5.png</File>
+    <File>C:/game — копия/Soul Sorter/Soul Sorter/Content/Gameplay/Humans/HumanSoul6.png</File>
+    <File>C:/game — копия/Soul Sorter/Soul Sorter/Content/Gameplay/Player/action.png</File>
+    <File>C:/game — копия/Soul Sorter/Soul Sorter/Content/Gameplay/Player/godsfist.png</File>
+    <File>C:/game — копия/Soul Sorter/Soul Sorter/Content/Gameplay/Player/hurt.png</File>
+    <File>C:/game — копия/Soul Sorter/Soul Sorter/Content/Gameplay/Player/idle.png</File>
+    <File>C:/game — копия/Soul Sorter/Soul Sorter/Content/Gameplay/Sounds/fire.wav</File>
+    <File>C:/game — копия/Soul Sorter/Soul Sorter/Content/Gameplay/Sounds/hit.wav</File>
+    <File>C:/game — копия/Soul Sorter/Soul Sorter/Content/Gameplay/Sounds/hurp.wav</File>
+    <File>C:/game — копия/Soul Sorter/Soul Sorter/Content/Intro/intro1.png</File>
+    <File>C:/game — копия/Soul Sorter/Soul Sorter/Content/Intro/intro2.png</File>
+    <File>C:/game — копия/Soul Sorter/Soul Sorter/Content/Intro/intro3.png</File>
+    <File>C:/game — копия/Soul Sorter/Soul Sorter/Content/Intro/intro4.png</File>
+    <File>C:/game — копия/Soul Sorter/Soul Sorter/Content/Intro/intro5.png</File>
+    <File>C:/game — копия/Soul Sorter/Soul Sorter/Content/Intro/intro6.png</File>
+    <File>C:/game — копия/Soul Sorter/Soul Sorter/Content/Intro/introSound.mp3</File>
+    <File>C:/game — копия/Soul Sorter/Soul Sorter/Content/Intro/NextButton.png</File>
+    <File>C:/game — копия/Soul Sorter/Soul Sorter/Content/Menu/backgroundMenu.png</File>
+    <File>C:/game — копия/Soul Sorter/Soul Sorter/Content/Menu/cloud1.png</File>
+    <File>C:/game — копия/Soul Sorter/Soul Sorter/Content/Menu/cloud2.png</File>
+    <File>C:/game — копия/Soul Sorter/Soul Sorter/Content/Menu/cloud3.png</File>
+    <File>C:/game — копия/Soul Sorter/Soul Sorter/Content/Menu/cloudsBack.png</File>
+    <File>C:/game — копия/Soul Sorter/Soul Sorter/Content/Menu/cloudsFront.png</File>
+    <File>C:/game — копия/Soul Sorter/Soul Sorter/Content/Menu/gameTitle.png</File>
+    <File>C:/game — копия/Soul Sorter/Soul Sorter/Content/Menu/mainMenuMusic.mp3</File>
+    <File>C:/game — копия/Soul Sorter/Soul Sorter/Content/Menu/quitGameButtons.png</File>
+    <File>C:/game — копия/Soul Sorter/Soul Sorter/Content/Menu/Settings/back.png</File>
+    <File>C:/game — копия/Soul Sorter/Soul Sorter/Content/Menu/Settings/CheckBoxScreen.png</File>
+    <File>C:/game — копия/Soul Sorter/Soul Sorter/Content/Menu/Settings/FullScreenTitle.png</File>
+    <File>C:/game — копия/Soul Sorter/Soul Sorter/Content/Menu/Settings/MusicDown.png</File>
+    <File>C:/game — копия/Soul Sorter/Soul Sorter/Content/Menu/Settings/MusicTitle.png</File>
+    <File>C:/game — копия/Soul Sorter/Soul Sorter/Content/Menu/Settings/MusicUp.png</File>
+    <File>C:/game — копия/Soul Sorter/Soul Sorter/Content/Menu/Settings/settingsWindow.png</File>
+    <File>C:/game — копия/Soul Sorter/Soul Sorter/Content/Menu/Settings/SoundDown.png</File>
+    <File>C:/game — копия/Soul Sorter/Soul Sorter/Content/Menu/Settings/SoundTitle.png</File>
+    <File>C:/game — копия/Soul Sorter/Soul Sorter/Content/Menu/Settings/SoundUp.png</File>
+    <File>C:/game — копия/Soul Sorter/Soul Sorter/Content/Menu/settingsGameButtons.png</File>
+    <File>C:/game — копия/Soul Sorter/Soul Sorter/Content/Menu/startGameButtons.png</File>
+    <File>C:/game — копия/Soul Sorter/Soul Sorter/Content/Outro/badOutro.png</File>
+    <File>C:/game — копия/Soul Sorter/Soul Sorter/Content/Outro/end.png</File>
+    <File>C:/game — копия/Soul Sorter/Soul Sorter/Content/Outro/goodOutro.png</File>
+    <File>C:/game — копия/Soul Sorter/Soul Sorter/Content/Outro/outroSound.mp3</File>
+    <File>C:/game — копия/Soul Sorter/Soul Sorter/Content/Pixelony.spritefont</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

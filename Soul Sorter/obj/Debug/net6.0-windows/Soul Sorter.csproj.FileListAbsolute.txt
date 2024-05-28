@@ -1,0 +1,204 @@
+C:\game\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Soul Sorter.exe
+C:\game\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Soul Sorter.deps.json
+C:\game\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Soul Sorter.runtimeconfig.json
+C:\game\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Soul Sorter.dll
+C:\game\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Soul Sorter.pdb
+C:\game\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\game\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\game\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\game\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+C:\game\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\SharpDX.dll
+C:\game\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+C:\game\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+C:\game\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+C:\game\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+C:\game\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+C:\game\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+C:\game\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+C:\game\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+C:\game\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+C:\game\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\game\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\game\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+C:\game\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\game\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\game\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\game\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\game\Soul Sorter\Soul Sorter\obj\Debug\net6.0-windows\Soul Sorter.csproj.AssemblyReference.cache
+C:\game\Soul Sorter\Soul Sorter\obj\Debug\net6.0-windows\Soul Sorter.GeneratedMSBuildEditorConfig.editorconfig
+C:\game\Soul Sorter\Soul Sorter\obj\Debug\net6.0-windows\Soul Sorter.AssemblyInfoInputs.cache
+C:\game\Soul Sorter\Soul Sorter\obj\Debug\net6.0-windows\Soul Sorter.AssemblyInfo.cs
+C:\game\Soul Sorter\Soul Sorter\obj\Debug\net6.0-windows\Soul Sorter.csproj.CoreCompileInputs.cache
+C:\game\Soul Sorter\Soul Sorter\obj\Debug\net6.0-windows\Soul Sor.8161B6DD.Up2Date
+C:\game\Soul Sorter\Soul Sorter\obj\Debug\net6.0-windows\Soul Sorter.dll
+C:\game\Soul Sorter\Soul Sorter\obj\Debug\net6.0-windows\refint\Soul Sorter.dll
+C:\game\Soul Sorter\Soul Sorter\obj\Debug\net6.0-windows\Soul Sorter.pdb
+C:\game\Soul Sorter\Soul Sorter\obj\Debug\net6.0-windows\Soul Sorter.genruntimeconfig.cache
+C:\game\Soul Sorter\Soul Sorter\obj\Debug\net6.0-windows\ref\Soul Sorter.dll
+C:\game\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Menu\backgroundMenu.xnb
+C:\game\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Menu\startGameButtons.xnb
+C:\game\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Menu\settingsGameButtons.xnb
+C:\game\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Menu\quitGameButtons.xnb
+C:\game\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Menu\gameTitle.xnb
+C:\game\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Menu\cloudsBack.xnb
+C:\game\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Menu\cloudsFront.xnb
+C:\game\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Menu\cloud1.xnb
+C:\game\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Menu\cloud2.xnb
+C:\game\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Menu\cloud3.xnb
+C:\game\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Menu\Settings\settingsWindow.xnb
+C:\game\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Menu\Settings\back.xnb
+C:\game\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Gameplay\Background\backgroundCloud1.xnb
+C:\game\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Gameplay\Background\backgroundCloud2.xnb
+C:\game\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Gameplay\Background\backgroundCloud3.xnb
+C:\game\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Gameplay\Background\backgroundClouds.xnb
+C:\game\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Gameplay\Player\action.xnb
+C:\game\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Gameplay\Player\hurt.xnb
+C:\game\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Gameplay\Player\idle.xnb
+C:\game\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Gameplay\HUD\hud.xnb
+C:\game\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Pixelony.xnb
+C:\game\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Attributes.xnb
+C:\game\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Gameplay\Demons\DemonSoul1.xnb
+C:\game\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Gameplay\Demons\DemonSoul2.xnb
+C:\game\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Gameplay\Humans\HumanSoul1.xnb
+C:\game\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Gameplay\Humans\HumanSoul2.xnb
+C:\game\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Gameplay\HUD\timer.xnb
+C:\game\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Gameplay\Player\godsfist.xnb
+C:\game\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Gameplay\Background\backgroundGameplay.wma
+C:\game\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Gameplay\Background\backgroundGameplay.xnb
+C:\game\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Gameplay\Sounds\fire.xnb
+C:\game\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Gameplay\Sounds\hit.xnb
+C:\game\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Gameplay\Sounds\hurp.xnb
+C:\game\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Intro\NextButton.xnb
+C:\game\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Menu\mainMenuMusic.wma
+C:\game\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Menu\mainMenuMusic.xnb
+C:\game\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Intro\intro1.xnb
+C:\game\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Intro\intro2.xnb
+C:\game\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Intro\intro3.xnb
+C:\game\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Intro\intro4.xnb
+C:\game\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Intro\intro5.xnb
+C:\game\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Intro\intro6.xnb
+C:\game\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Intro\introSound.wma
+C:\game\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Intro\introSound.xnb
+C:\game\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Outro\badOutro.xnb
+C:\game\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Outro\end.xnb
+C:\game\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Outro\goodOutro.xnb
+C:\game\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Outro\outroSound.wma
+C:\game\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Outro\outroSound.xnb
+C:\game\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Menu\Settings\CheckBoxScreen.xnb
+C:\game\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Menu\Settings\FullScreenTitle.xnb
+C:\game\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Menu\Settings\MusicDown.xnb
+C:\game\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Menu\Settings\MusicTitle.xnb
+C:\game\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Menu\Settings\MusicUp.xnb
+C:\game\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Menu\Settings\SoundDown.xnb
+C:\game\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Menu\Settings\SoundTitle.xnb
+C:\game\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Menu\Settings\SoundUp.xnb
+C:\game\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Gameplay\Humans\HumanSoul3.xnb
+C:\game\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Gameplay\Humans\HumanSoul4.xnb
+C:\game\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Gameplay\Humans\HumanSoul5.xnb
+C:\game\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Gameplay\Humans\HumanSoul6.xnb
+C:\game\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Gameplay\Demons\DemonSoul3.xnb
+C:\game\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Gameplay\Demons\DemonSoul4.xnb
+C:\game\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Gameplay\Demons\DemonSoul5.xnb
+C:\game\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Gameplay\Demons\DemonSoul6.xnb
+C:\game — копия\Soul Sorter\Soul Sorter\obj\Debug\net6.0-windows\Soul Sorter.csproj.AssemblyReference.cache
+C:\game — копия\Soul Sorter\Soul Sorter\obj\Debug\net6.0-windows\Soul Sorter.GeneratedMSBuildEditorConfig.editorconfig
+C:\game — копия\Soul Sorter\Soul Sorter\obj\Debug\net6.0-windows\Soul Sorter.AssemblyInfoInputs.cache
+C:\game — копия\Soul Sorter\Soul Sorter\obj\Debug\net6.0-windows\Soul Sorter.AssemblyInfo.cs
+C:\game — копия\Soul Sorter\Soul Sorter\obj\Debug\net6.0-windows\Soul Sorter.csproj.CoreCompileInputs.cache
+C:\game — копия\Soul Sorter\Soul Sorter\obj\Debug\net6.0-windows\Soul Sorter.dll
+C:\game — копия\Soul Sorter\Soul Sorter\obj\Debug\net6.0-windows\refint\Soul Sorter.dll
+C:\game — копия\Soul Sorter\Soul Sorter\obj\Debug\net6.0-windows\Soul Sorter.pdb
+C:\game — копия\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Attributes.xnb
+C:\game — копия\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Gameplay\Background\backgroundCloud1.xnb
+C:\game — копия\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Gameplay\Background\backgroundCloud2.xnb
+C:\game — копия\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Gameplay\Background\backgroundCloud3.xnb
+C:\game — копия\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Gameplay\Background\backgroundClouds.xnb
+C:\game — копия\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Gameplay\Background\backgroundGameplay.wma
+C:\game — копия\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Gameplay\Background\backgroundGameplay.xnb
+C:\game — копия\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Gameplay\Demons\DemonSoul1.xnb
+C:\game — копия\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Gameplay\Demons\DemonSoul2.xnb
+C:\game — копия\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Gameplay\Demons\DemonSoul3.xnb
+C:\game — копия\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Gameplay\Demons\DemonSoul4.xnb
+C:\game — копия\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Gameplay\Demons\DemonSoul5.xnb
+C:\game — копия\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Gameplay\Demons\DemonSoul6.xnb
+C:\game — копия\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Gameplay\HUD\hud.xnb
+C:\game — копия\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Gameplay\HUD\timer.xnb
+C:\game — копия\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Gameplay\Humans\HumanSoul1.xnb
+C:\game — копия\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Gameplay\Humans\HumanSoul2.xnb
+C:\game — копия\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Gameplay\Humans\HumanSoul3.xnb
+C:\game — копия\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Gameplay\Humans\HumanSoul4.xnb
+C:\game — копия\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Gameplay\Humans\HumanSoul5.xnb
+C:\game — копия\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Gameplay\Humans\HumanSoul6.xnb
+C:\game — копия\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Gameplay\Player\action.xnb
+C:\game — копия\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Gameplay\Player\godsfist.xnb
+C:\game — копия\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Gameplay\Player\hurt.xnb
+C:\game — копия\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Gameplay\Player\idle.xnb
+C:\game — копия\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Gameplay\Sounds\fire.xnb
+C:\game — копия\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Gameplay\Sounds\hit.xnb
+C:\game — копия\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Gameplay\Sounds\hurp.xnb
+C:\game — копия\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Intro\intro1.xnb
+C:\game — копия\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Intro\intro2.xnb
+C:\game — копия\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Intro\intro3.xnb
+C:\game — копия\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Intro\intro4.xnb
+C:\game — копия\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Intro\intro5.xnb
+C:\game — копия\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Intro\intro6.xnb
+C:\game — копия\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Intro\introSound.wma
+C:\game — копия\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Intro\introSound.xnb
+C:\game — копия\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Intro\NextButton.xnb
+C:\game — копия\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Menu\backgroundMenu.xnb
+C:\game — копия\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Menu\cloud1.xnb
+C:\game — копия\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Menu\cloud2.xnb
+C:\game — копия\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Menu\cloud3.xnb
+C:\game — копия\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Menu\cloudsBack.xnb
+C:\game — копия\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Menu\cloudsFront.xnb
+C:\game — копия\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Menu\gameTitle.xnb
+C:\game — копия\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Menu\mainMenuMusic.wma
+C:\game — копия\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Menu\mainMenuMusic.xnb
+C:\game — копия\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Menu\quitGameButtons.xnb
+C:\game — копия\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Menu\settingsGameButtons.xnb
+C:\game — копия\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Menu\Settings\back.xnb
+C:\game — копия\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Menu\Settings\CheckBoxScreen.xnb
+C:\game — копия\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Menu\Settings\FullScreenTitle.xnb
+C:\game — копия\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Menu\Settings\MusicDown.xnb
+C:\game — копия\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Menu\Settings\MusicTitle.xnb
+C:\game — копия\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Menu\Settings\MusicUp.xnb
+C:\game — копия\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Menu\Settings\settingsWindow.xnb
+C:\game — копия\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Menu\Settings\SoundDown.xnb
+C:\game — копия\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Menu\Settings\SoundTitle.xnb
+C:\game — копия\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Menu\Settings\SoundUp.xnb
+C:\game — копия\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Menu\startGameButtons.xnb
+C:\game — копия\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Outro\badOutro.xnb
+C:\game — копия\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Outro\end.xnb
+C:\game — копия\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Outro\goodOutro.xnb
+C:\game — копия\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Outro\outroSound.wma
+C:\game — копия\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Outro\outroSound.xnb
+C:\game — копия\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Content\Pixelony.xnb
+C:\game — копия\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Soul Sorter.exe
+C:\game — копия\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Soul Sorter.deps.json
+C:\game — копия\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Soul Sorter.runtimeconfig.json
+C:\game — копия\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Soul Sorter.dll
+C:\game — копия\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Soul Sorter.pdb
+C:\game — копия\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\game — копия\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\game — копия\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\game — копия\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+C:\game — копия\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\SharpDX.dll
+C:\game — копия\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+C:\game — копия\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+C:\game — копия\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+C:\game — копия\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+C:\game — копия\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+C:\game — копия\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+C:\game — копия\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+C:\game — копия\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+C:\game — копия\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+C:\game — копия\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\game — копия\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\game — копия\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+C:\game — копия\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\game — копия\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\game — копия\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\game — копия\Soul Sorter\Soul Sorter\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\game — копия\Soul Sorter\Soul Sorter\obj\Debug\net6.0-windows\Soul Sor.8161B6DD.Up2Date
+C:\game — копия\Soul Sorter\Soul Sorter\obj\Debug\net6.0-windows\Soul Sorter.genruntimeconfig.cache
+C:\game — копия\Soul Sorter\Soul Sorter\obj\Debug\net6.0-windows\ref\Soul Sorter.dll
